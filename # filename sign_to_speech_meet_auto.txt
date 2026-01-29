@@ -1,4 +1,4 @@
-# filename: sign_to_speech_meet_auto.py
+# sign_to_speech_meet_auto.py
 import cv2
 import mediapipe as mp
 import pyttsx3
@@ -238,3 +238,4 @@ def main():
 # ✅ Corrected main check
 if __name__ == "__main__":
     main()
+
